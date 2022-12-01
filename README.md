@@ -95,7 +95,9 @@ The goal of this project is to develop a system that automatically opens reams o
 
   4. Store-Bought Components
   
-     N/A
+     * 12" Mending Plate Zinc (Straight Metal Bar with Holes) (Quantity: 2)
+  
+       Store: Home Depot
 
   
  ### Itemized Expenses
