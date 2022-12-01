@@ -59,7 +59,41 @@ The goal of this project is to develop a system that automatically opens reams o
   
        Link: https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Projects-Compliant/dp/B01H4ZDYCE/ref=asc_df_B01H4ZLZLQ/?tag=hyprod20&linkCode=df0&hvadid=309743296044&hvpos=&hvnetw=g&hvrand=5459596528536033104&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004731&hvtargid=pla-490931309987&th=1
        
-  3. Store-Bought Components
+  3. Crucial Supplies/Experimental Parts
+ 
+     * Wires
+  
+       Link: https://www.amazon.com/dp/B08B8XX89H/ref=twister_B09H6XQRJG?_encoding=UTF8&th=1
+       
+     * Bulk Pack of A4988 Stepper Motor Drivers
+  
+       Link: https://www.amazon.com/HiLetgo-Stepstick-Stepper-Printer-Compatible/dp/B07BND65C8/ref=sr_1_3?crid=G0BBGVX4W37D&keywords=a4988&qid=1664568298&qu=eyJxc2MiOiI0LjA3IiwicXNhIjoiMy41MiIsInFzcCI6IjMuMjUifQ%3D%3D&sprefix=A4988%2Caps%2C2232&sr=8-3
+
+     * DM542T STEPPERONLINE CNC Stepper Motor Driver
+  
+       Link: https://www.amazon.com/STEPPERONLINE-1-0-4-2A-20-50VDC-Micro-step-Resolutions/dp/B06Y5VPSFN/ref=sr_1_13?keywords=nema+17+driver&qid=1664568370&qu=eyJxc2MiOiI0LjA2IiwicXNhIjoiMy43NyIsInFzcCI6IjMuNTAifQ%3D%3D&sr=8-13
+      
+      * Bates- Double Edge Razor Blade
+  
+       Link: https://www.amazon.com/Bates-Choice-Pro-Razor-blades/dp/B09BJNDDRN/ref=sr_1_6?crid=251T2DUXYX536&keywords=double+edge+razor+blade&qid=1664568460&qu=eyJxc2MiOiI1LjQ2IiwicXNhIjoiNC45MSIsInFzcCI6IjQuNzYifQ%3D%3D&sprefix=double+edge+%2Caps%2C87&sr=8-6
+       
+       * Utility Knife Blades by HEIKIO
+  
+       Link: https://www.amazon.com/Utility-HEIKIO-Standard-Replacement-Heavy-duty/dp/B09Q3NSYD2/ref=sr_1_7?crid=ROZT8PODJ5NI&keywords=knife+blade&qid=1664568691&qu=eyJxc2MiOiI1Ljg0IiwicXNhIjoiNC4zMiIsInFzcCI6IjQuMDUifQ%3D%3D&sprefix=knife+blad%2Caps%2C87&sr=8-7
+
+       * Yanzeo CC431-60119ADF Input Paper Tray
+  
+       Link: https://www.amazon.com/YANZEO-CC431-60119-Input-CM1312-CM2320/dp/B072JGJ8HH/ref=sr_1_11?crid=1Q5VCT93WBDPN&keywords=paper+input+tray&qid=1664569153&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=paper+input+tray%2Caps%2C112&sr=8-11
+       
+       * Automatic Document Feeder ADF Paper Input Tray
+  
+       Link: https://www.amazon.com/OKLILI-CM1312-CM2320-M375-M2727/dp/B093SQB75L/ref=sr_1_12?crid=1Q5VCT93WBDPN&keywords=paper+input+tray&qid=1664569153&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=paper+input+tray%2Caps%2C112&sr=8-12
+       
+       * 12V 2A Power Supply
+  
+       Link: https://www.amazon.com/inShareplus-Mounted-Switching-Connector-Adapter/dp/B01GD4ZQRS/ref=sr_1_8?crid=2IFNPO7KWKB5G&keywords=led%2Bpower%2Bsupply&qid=1664569882&qu=eyJxc2MiOiI1LjUyIiwicXNhIjoiNS4yMCIsInFzcCI6IjUuMDgifQ%3D%3D&s=hi&sprefix=led%2Bpower%2B%2Ctools%2C91&sr=1-8&th=1
+
+  4. Store-Bought Components
   
      N/A
 
