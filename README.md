@@ -19,74 +19,49 @@ The goal of this project is to develop a system that automatically opens reams o
  
  * Logical Design Report
  * Physical Design Report
- * Experimental Results Report 
+ * Experimental Design Report 
 
- Furthermore, within the "Presentations" folder viewers have been provided with a final copy of the poster displayed at the undergraduate research conference. As well as the presentation slides utilized within the classroom setting that exemplify the accomplished work within a condensed format.
+ Furthermore, within the "Presentations" folder viewers have been provided with a final copy of the presentation slides utilized within the classroom setting that exemplify the accomplished work within a condensed format.
  
  
- Lastly, in the scenario were an individual may wish to replicate the design we have provided the source code that is used to control the logic behind the device. Stl files have also been included, these can be found within the "Misc" folder. When printed the 3D models will yield the following:
- 
- * Clamps
- * LCD Case
- * Keypad Case
-
-Moreover, within the same folder will be a link to a webpage that will contain an appropriate training guide and more information on the apparatus.
+ Lastly, in the scenario where an individual may wish to replicate the design we have provided the source code that is used to control the logic behind the device. The circuit schematic and initial preliminary prototype model have also been included, these can be found within the "Misc" folder. 
  
   ### System Parts
   
   The system was designed with the intention of being completely reproducible by any individual with the desire to do so. As such for the convenience of the prospective designer, the utilized components and their respective links are compiled below:
   
-  1. Drive System
+  1. Drive System Components
 
-     * Eco-Worthy 300mm Stroke Linear Actuator
+     * Belt Driven Nema 17: 500mm 1070-Bundle
   
-       Link: https://www.amazon.com/dp/B00NM8H5SW?ref=ppx_yo2ov_dt_b_product_details&th=1
+       Link: https://openbuildspartstore.com/v-slot-nema-17-linear-actuator-bundle-belt-driven/
        
-     * L298N Motor Driver
+     * Belt Driven Nema 17: 500mm 1070-Bundle
   
-       Link: https://www.amazon.com/dp/B014KMHSW6?psc=1&ref=ppx_yo2ov_dt_b_product_details
-      
-     * Wall Mounted AC to DC Adapter
+       Link: https://openbuildspartstore.com/v-slot-nema-17-linear-actuator-bundle-belt-driven/
+       
+     * Belt Driven Nema 17: 250mm 1070-Bundle
   
-       Link: https://www.amazon.com/dp/B087NPBC1W?ref=ppx_yo2ov_dt_b_product_details&th=1
+       Link: https://openbuildspartstore.com/v-slot-nema-17-linear-actuator-bundle-belt-driven/
     
-  2. User Interface
+  2. Control-Oriented Components
   
-     * 20x4 LCD Display
+     * CNC Shield Expansion Board V3.0 + 4Pcs A4988 Stepper Motor Driver
   
-       Link: https://www.amazon.com/dp/B08V4WB3Y1?ref=ppx_yo2ov_dt_b_product_details&th=1
+       Link: https://www.amazon.com/Shield-Expansion-Stepper-Engraver-Printer/dp/B07DXNZ9PS/ref=cm_cr_arp_d_pl_foot_top?ie=UTF8
        
-     * 4x4 Matrix Keypad 
-  
-       Link: https://www.adafruit.com/product/3844?gclid=Cj0KCQjw06OTBhC_ARIsAAU1yOWN-53pa0KvsjR3zv9O0FhG5_UUUdQQNal-UVi3GDCMKE0uApMlhS8aAhVsEALw_wcB
-      
-     * Adafruit MicroSD Card Breakout Board
-  
-       Link: https://www.amazon.com/dp/B00NAY2NAI?psc=1&ref=ppx_yo2ov_dt_b_product_details
-  
-  3. Data Collection
-  
-     * HX711 Load Cell Amplifier
-  
-       Link: https://www.amazon.com/dp/B07MTYT95R?psc=1&ref=ppx_yo2ov_dt_b_product_details
        
-     * S-type Beam High-Precision Load Cell
+     * 12V 6A Power Supply
   
-       Link: https://www.amazon.com/gp/product/B0785MXVYK/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+       Link: https://www.amazon.com/Signcomplex-Supply-Transformer-Switching-Adapter/dp/B074HV582Q/ref=sr_1_1_sspa?crid=1S0OV8LTMPDO3&keywords=12v%2B6amp%2Bpower%2Bsupply&qid=1667590086&qu=eyJxc2MiOiI0LjE4IiwicXNhIjoiMy42NiIsInFzcCI6IjMuMjgifQ%3D%3D&s=industrial&sprefix=12v%2B6A%2Cindustrial%2C77&sr=1-1-spons&th=1
        
      * Arduino Mega 
   
        Link: https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Projects-Compliant/dp/B01H4ZDYCE/ref=asc_df_B01H4ZLZLQ/?tag=hyprod20&linkCode=df0&hvadid=309743296044&hvpos=&hvnetw=g&hvrand=5459596528536033104&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004731&hvtargid=pla-490931309987&th=1
        
-  4. Store-Bought Components
+  3. Store-Bought Components
   
-     * Wood, Wood Screws, L Brackets, Magnets, Assorted Bolts/Nuts/Washers. 
-  
-       Store: Lowes
-       
-     * Load Cell Bolts
-  
-       Store: ACE Hardware
+     N/A
 
   
  ### Itemized Expenses
@@ -108,8 +83,6 @@ Moreover, within the same folder will be a link to a webpage that will contain a
 |               |               |       |
 |Grand Total    |-------------  |$163.70|
 
-
-**Arduino Mega cost not included, the microcontroller was provided to the class by the instructor and therefore does not qualify as an expense.
 
       
   
@@ -195,4 +168,4 @@ Faculty Mentors/Support
 
 Special thanks to Professor Chen, Feldblyun, Yeung, and the University at Albany’s Chemistry Department for sponsoring this project. 
 
-Developed in ECE442: Systems Analysis & Design in the Electrical & Computer Engineering Department. 
+Developed in ECE490: Design Lab; in the Electrical & Computer Engineering Department. 
