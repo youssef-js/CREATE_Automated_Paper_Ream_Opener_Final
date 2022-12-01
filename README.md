@@ -102,14 +102,14 @@ The goal of this project is to develop a system that automatically opens reams o
   
  ### Itemized Expenses
   
-| Category      | Item          | Price |
-| ------------- |:-------------:| -----:|
-| Drive System  |Linear Actuator|$42.99 |
-|               |L298N Driver   | $6.99 |
-|               | AC-DC Adapter | $7.98 |
-|               |               |       |
-| User Interface| 20x4 LCD      | $6.33 |
-|               | 4x4 Keypad    | $5.95 |
+| Category                   | Item                                  | Price |
+| -------------------------- |:-----------------------------------------------------------------:| -----:|
+| Drive System               |Belt Driven Nema 17: 500mm 1070-Bundle                             |$117.99|
+|                            |Belt Driven Nema 17: 500mm 1070-Bundle                             |$117.99|
+|                            |Belt Driven Nema 17: 250mm 1070-Bundle                             |$111.99|
+|                            |                                                                   |       |
+| Control-Oriented Components| CNC Shield Expansion Board V3.0 + 4Pcs A4988 Stepper Motor Driver |$15.39 |
+|                            | 12V 6A Power Supply    | $19.99 |
 |               |MicroSD Board  | $9.56 |
 |               |               |       |
 |Data Collection|HX711 Amplifier| $1.99 |
