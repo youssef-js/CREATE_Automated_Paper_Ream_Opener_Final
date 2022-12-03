@@ -140,6 +140,34 @@ Link: https://www.arduino.cc/en/software
 
 At this stage the setup in terms of software has been completed. Please download the source code provided within this repository and upload to the microcontroller to begin using the apparatus.
 
+### Replication
+
+In the interest of successfully replicating the aforementioned progress a concise check list has been provided below.
+
+ 1. Watch the instructional video provided below:
+
+     * Link: https://www.screencast.com/t/LzzzPJ7e0wt
+       
+Now that sufficient context has been provided an individual would proceed by purchasing the displayed equipment articulated within the video format. A complete list of parts with purchasing links has been organized up above in the "System Parts" section.
+    
+  2. Purchase Relevant Equipment
+  
+Lastly, the final step of the procedure is to recreate the circuit connections displayed within the "Misc" folder of this repository. After this has been accomplished an indvidual may upload the source code to the microcontroller.
+    
+  3. Follow Circuit Schematic and Upload Source Code
+ 
+It will be known whether or not successful replication has been achieved based on the performance of the apparatus in comparison to the ideal case displayed in the instructional video.
+
+### TO-DO
+
+Looking forward to the future the team will resume work on the device during the winter break. Designers expect to achieve considerable progress, especially in the following areas:
+    
+     * Development of Enclosure (Focusing on the Safety of Disabled Employees)
+       
+     * Increased Automation Emphasis
+       
+     * Satisfying Secondary Tasks provided by the Stakeholder
+
 ### Personnel and Funding
 
 This project is completely sponsored by New York State Industries for the Disabled (NYSID) and allows the respective designers to take part in the CREATE (Cultivating Resources for Employment with Assistive TEchnology) competition.
