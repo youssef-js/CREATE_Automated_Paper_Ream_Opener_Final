@@ -158,6 +158,6 @@ Faculty Mentors/Support
 
 2. Mike Denmark
 
-Special thanks to Alex Demitraszek, customer care manager of the Center for Disability Services for sponsoring this project. 
+Special thanks to Alex Demitraszek, customer care manager of the Center for Disability Services.
 
 Developed in ECE490: Design Lab; in the Electrical & Computer Engineering Department. 
