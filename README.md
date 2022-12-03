@@ -109,15 +109,22 @@ The goal of this project is to develop a system that automatically opens reams o
 |                            |Belt Driven Nema 17: 250mm 1070-Bundle                             |$111.99|
 |                            |                                                                   |       |
 | Control-Oriented Components| CNC Shield Expansion Board V3.0 + 4Pcs A4988 Stepper Motor Driver |$15.39 |
-|                            | 12V 6A Power Supply    | $19.99 |
-|               |MicroSD Board  | $9.56 |
-|               |               |       |
-|Data Collection|HX711 Amplifier| $1.99 |
-|               |Load Cell      |$51.91 |
-|               |               |       |
-|Store-Bought   |All-Inclusive  |$30.00 |
-|               |               |       |
-|Grand Total    |-------------  |$163.70|
+|                            | 12V 6A Power Supply                                               |$19.99 |
+|                            |Arduino Mega                                                       |$20.99 |
+|                            |                                                                   |       |
+| Crucial Supplies/Experimental Parts| Wires                                                     |$14.94 |
+|                            |Bulk Pack of A4988 Stepper Motor Drivers                           |$9.89  |
+|                            |DM542T STEPPERONLINE CNC Stepper Motor Driver                      |$28.99 |
+|                            |Bates- Double Edge Razor Blade                                     |$4.95  |
+|                            |Utility Knife Blades by HEIKIO                                     |$4.99  |
+|                            |Yanzeo CC431-60119ADF Input Paper Tray                             |$19.00 |
+|                            |Automatic Document Feeder ADF Paper Input Tray                     |$16.99 |
+|                            |12V 2A Power Supply                                                |$8.89  |
+|                            |                                                                   |       |
+|Store-Bought         |12" Mending Plate Zinc (Straight Metal Bar with Holes) (Quantity: 2)      |$11.38 |
+|                 |               |       |
+|Shipping Cost    |-------------  |$25.50 |
+|Grand Total      |-------------  |$549.86|
 
 
       
