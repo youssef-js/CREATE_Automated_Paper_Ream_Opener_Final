@@ -132,68 +132,17 @@ The goal of this project is to develop a system that automatically opens reams o
   
    ### Software Dependencies
    
-   In the context of software dependencies there is none for the traditional user. This apparatus requires no external downloads and is advertised as a complete stand-alone product due to the microSD functionality allowing for an individual to interact with data from the device in the form of a txt file. As such, appropriate data analysis can be performed at the users discretion, it is anticipated that for chemistry students excel will be the preferred tool.
+   In the context of software dependencies there is none for the traditional user. This apparatus requires no external downloads and is advertised as a complete stand-alone product.
    
 However, when initially setting up the device one must upload the source code onto the microcontroller. The first step is to download the Arduino IDE, the appropriate link is found below:
 
 Link: https://www.arduino.cc/en/software
 
-Next, it is important that the required libraries for the provided Arduino source code are properly configured. The procedure for doing so is concisely formatted below:
-
-
-   Utilize Link --> Press "Code" Button --> Download the ZIP --> Extract files into the "libraries" folder for Arduino.
-
-
-   -HX711_ADC Library
-   
-   Link: https://github.com/olkal/HX711_ADC
-   
-   -LiquidCrystal_I2C Library
-  
-   Link: https://github.com/johnrickman/LiquidCrystal_I2C
-   
-   -Keypad Library
-  
-   Link: https://github.com/Chris--A/Keypad
-   
-   -EEPROM Library
-  
-   Link: N/A (Built into Arduino IDE)
-   
-   -Wire Library
-  
-   Link: N/A (Built into Arduino IDE)
-   
-   -SD and SPI Library
-  
-   Link: N/A (Built into Arduino IDE)
-
-
-Syntax to reference libraries:
-
-(Provided for the readers understanding, these lines of code have already been included within the source code and there is no need for the user to make any additions.)
-```C
-// Load cell
-#include <HX711_ADC.h>
-#include <EEPROM.h>
-
-// LCD
-#include <Wire.h>
-#include <LiquidCrystal_I2C.h>
-
-// Keypad
-#include <Keypad.h>
-
-// SD Card
-#include <SD.h>
-#include <SPI.h>
-```
-
 At this stage the setup in terms of software has been completed. Please download the source code provided within this repository and upload to the microcontroller to begin using the apparatus.
 
 ### Personnel and Funding
 
-This project is completely funded by the Center For Undergraduate Research And Creative Engagement (CURCE). The designers applied for a $500 award and were subsequently granted the sum after passing the validation process. 
+This project is completely sponsored by New York State Industries for the Disabled (NYSID) and allows the respective designers to take part in the CREATE (Cultivating Resources for Employment with Assistive TEchnology) competition.
 
 Designers
 
@@ -201,7 +150,7 @@ Designers
 
 2. Mazin Chater
 
-3. Jaden Pharoah
+3. Abdullah Qureshi
 
 Faculty Mentors/Support
 
@@ -209,6 +158,6 @@ Faculty Mentors/Support
 
 2. Mike Denmark
 
-Special thanks to Professor Chen, Feldblyun, Yeung, and the University at Albany’s Chemistry Department for sponsoring this project. 
+Special thanks to Alex Demitraszek, customer care manager of the Center for Disability Services for sponsoring this project. 
 
 Developed in ECE490: Design Lab; in the Electrical & Computer Engineering Department. 
