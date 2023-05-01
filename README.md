@@ -1,6 +1,7 @@
 # CREATE-Competition-Automated-Paper-Ream-Opener
 
- Fall 2022 - Spring 2023 ECE Design Lab
+ Fall 2022 - Spring 2023 
+ ECE Design Lab
  
  The Center for Disability Services mailing center, which processes enormous amounts of mail per day
 supporting official New York State mailing operations, has partnered with students to develop a system that assists
@@ -20,6 +21,7 @@ The goal of this project is to develop a system that automatically opens reams o
  * Logical Design Report
  * Physical Design Report
  * Experimental Design Report 
+ * CREATE_Experimental_Results_and_Discussion
 
  Furthermore, within the "Presentations" folder viewers have been provided with a final copy of the presentation slides utilized within the classroom setting that exemplify the accomplished work within a condensed format.
  
