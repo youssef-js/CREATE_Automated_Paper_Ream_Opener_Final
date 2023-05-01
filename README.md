@@ -26,7 +26,7 @@ The goal of this project is to develop a system that automatically opens reams o
  Furthermore, within the "Presentations" folder viewers have been provided with a final copy of the presentation slides for both the fall and spring semesters utilized within the classroom setting that exemplify the accomplished work within a condensed format.
  
  
- Lastly, in the scenario where an individual may wish to replicate the design we have provided the source code that is used to control the logic behind the device. The circuit schematic and initial preliminary prototype model have also been included, these can be found within the "Misc" folder. 
+ Lastly, in the scenario where an individual may wish to replicate the design we have provided the source code from the Fall and Spring semester that is used to control the logic behind the device. The initial circuit schematic, initial preliminary prototype model, final circuit schematic, final 3D model and lastly a compilation of the fianl components being used have also been included, these can be found within the "Misc" folder.
  
   ### System Parts
   
@@ -45,6 +45,15 @@ The goal of this project is to develop a system that automatically opens reams o
      * Belt Driven Nema 17: 250mm 1070-Bundle
   
        Link: https://openbuildspartstore.com/v-slot-nema-17-linear-actuator-bundle-belt-driven/
+       
+     * STEPPERONLINE NEMA 23 Stepper Motor 3.0A
+  
+       Link: https://www.amazon.com/gp/product/B077Z5QJCL/ref=ewc_pr_img_2?smid=AWQBCGWISS7BL&psc=1
+       
+     * 
+  
+       Link: https://www.amazon.com/gp/product/B077Z5QJCL/ref=ewc_pr_img_2?smid=AWQBCGWISS7BL&psc=1
+      
     
   2. Control-Oriented Components
   
