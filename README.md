@@ -23,7 +23,7 @@ The goal of this project is to develop a system that automatically opens reams o
  * Experimental Design Report 
  * CREATE_Experimental_Results_and_Discussion
 
- Furthermore, within the "Presentations" folder viewers have been provided with a final copy of the presentation slides utilized within the classroom setting that exemplify the accomplished work within a condensed format.
+ Furthermore, within the "Presentations" folder viewers have been provided with a final copy of the presentation slides for both the fall and spring semesters utilized within the classroom setting that exemplify the accomplished work within a condensed format.
  
  
  Lastly, in the scenario where an individual may wish to replicate the design we have provided the source code that is used to control the logic behind the device. The circuit schematic and initial preliminary prototype model have also been included, these can be found within the "Misc" folder. 
