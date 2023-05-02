@@ -50,9 +50,9 @@ The goal of this project is to develop a system that automatically opens reams o
   
        Link: https://www.amazon.com/gp/product/B077Z5QJCL/ref=ewc_pr_img_2?smid=AWQBCGWISS7BL&psc=1
        
-     * 
+     * Threaded Rod with Cart and NEMA Stepper Motor Apparatus
   
-       Link: https://www.amazon.com/gp/product/B077Z5QJCL/ref=ewc_pr_img_2?smid=AWQBCGWISS7BL&psc=1
+       -Obtained from Public Laboratory Supplies, it had been fully assembled by another individual
       
     
   2. Control-Oriented Components
@@ -65,6 +65,11 @@ The goal of this project is to develop a system that automatically opens reams o
      * 12V 6A Power Supply
   
        Link: https://www.amazon.com/Signcomplex-Supply-Transformer-Switching-Adapter/dp/B074HV582Q/ref=sr_1_1_sspa?crid=1S0OV8LTMPDO3&keywords=12v%2B6amp%2Bpower%2Bsupply&qid=1667590086&qu=eyJxc2MiOiI0LjE4IiwicXNhIjoiMy42NiIsInFzcCI6IjMuMjgifQ%3D%3D&s=industrial&sprefix=12v%2B6A%2Cindustrial%2C77&sr=1-1-spons&th=1
+       
+          
+     * 24V 6A Power Supply
+  
+       Link: https://www.amazon.com/Adapter-100-240V-Transformers-Security-Computers/dp/B08Z7X9F1V/ref=sr_1_1_sspa?crid=2WVPUI5FJIYCW&keywords=24v%2B6a%2Bpower%2Bsupply&qid=1683031869&sprefix=24V%2B6A%2B%2Caps%2C428&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUlZWV0tSOE4xWlZMJmVuY3J5cHRlZElkPUEwMTQ3NTg1M0ZYRFRRVFdHSFpNVyZlbmNyeXB0ZWRBZElkPUEwMjg2NjU0MlQzODZISlAxUFRVJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
        
      * Arduino Mega 
   
@@ -84,25 +89,13 @@ The goal of this project is to develop a system that automatically opens reams o
   
        Link: https://www.amazon.com/STEPPERONLINE-1-0-4-2A-20-50VDC-Micro-step-Resolutions/dp/B06Y5VPSFN/ref=sr_1_13?keywords=nema+17+driver&qid=1664568370&qu=eyJxc2MiOiI0LjA2IiwicXNhIjoiMy43NyIsInFzcCI6IjMuNTAifQ%3D%3D&sr=8-13
        
-     * Bates- Double Edge Razor Blade
+     * DM542T STEPPERONLINE CNC Stepper Motor Driver
   
-       Link: https://www.amazon.com/Bates-Choice-Pro-Razor-blades/dp/B09BJNDDRN/ref=sr_1_6?crid=251T2DUXYX536&keywords=double+edge+razor+blade&qid=1664568460&qu=eyJxc2MiOiI1LjQ2IiwicXNhIjoiNC45MSIsInFzcCI6IjQuNzYifQ%3D%3D&sprefix=double+edge+%2Caps%2C87&sr=8-6
+       Link: https://www.amazon.com/STEPPERONLINE-1-0-4-2A-20-50VDC-Micro-step-Resolutions/dp/B06Y5VPSFN/ref=sr_1_13?keywords=nema+17+driver&qid=1664568370&qu=eyJxc2MiOiI0LjA2IiwicXNhIjoiMy43NyIsInFzcCI6IjMuNTAifQ%3D%3D&sr=8-13
        
      * Utility Knife Blades by HEIKIO
   
        Link: https://www.amazon.com/Utility-HEIKIO-Standard-Replacement-Heavy-duty/dp/B09Q3NSYD2/ref=sr_1_7?crid=ROZT8PODJ5NI&keywords=knife+blade&qid=1664568691&qu=eyJxc2MiOiI1Ljg0IiwicXNhIjoiNC4zMiIsInFzcCI6IjQuMDUifQ%3D%3D&sprefix=knife+blad%2Caps%2C87&sr=8-7
-
-     * Yanzeo CC431-60119ADF Input Paper Tray
-  
-       Link: https://www.amazon.com/YANZEO-CC431-60119-Input-CM1312-CM2320/dp/B072JGJ8HH/ref=sr_1_11?crid=1Q5VCT93WBDPN&keywords=paper+input+tray&qid=1664569153&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=paper+input+tray%2Caps%2C112&sr=8-11
-       
-     * Automatic Document Feeder ADF Paper Input Tray
-  
-       Link: https://www.amazon.com/OKLILI-CM1312-CM2320-M375-M2727/dp/B093SQB75L/ref=sr_1_12?crid=1Q5VCT93WBDPN&keywords=paper+input+tray&qid=1664569153&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=paper+input+tray%2Caps%2C112&sr=8-12
-       
-     * 12V 2A Power Supply
-  
-       Link: https://www.amazon.com/inShareplus-Mounted-Switching-Connector-Adapter/dp/B01GD4ZQRS/ref=sr_1_8?crid=2IFNPO7KWKB5G&keywords=led%2Bpower%2Bsupply&qid=1664569882&qu=eyJxc2MiOiI1LjUyIiwicXNhIjoiNS4yMCIsInFzcCI6IjUuMDgifQ%3D%3D&s=hi&sprefix=led%2Bpower%2B%2Ctools%2C91&sr=1-8&th=1
 
   4. Store-Bought Components
   
