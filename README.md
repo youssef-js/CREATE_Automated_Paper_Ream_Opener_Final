@@ -108,6 +108,10 @@ The goal of this project is to develop a system that automatically opens reams o
      * LED Illuminated Push Buttons
   
        Link: https://www.amazon.com/gp/product/B01M7PNCO9/ref=ox_sc_act_title_1?smid=A3H7VB6FZ4M9FM&psc=1
+       
+     * 2pcs 2040 V Slot 600mm Aluminum Extrusion
+  
+       Link: https://www.amazon.com/dp/B0B9WY6PK9?ref=ppx_yo2ov_dt_b_product_details&th=1
 
   4. Store-Bought Components
   
