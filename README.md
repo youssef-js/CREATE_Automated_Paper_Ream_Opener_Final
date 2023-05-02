@@ -112,6 +112,14 @@ The goal of this project is to develop a system that automatically opens reams o
      * 2pcs 2040 V Slot 600mm Aluminum Extrusion
   
        Link: https://www.amazon.com/dp/B0B9WY6PK9?ref=ppx_yo2ov_dt_b_product_details&th=1
+       
+     * 460PCS M4 Screws Metric Button Head
+  
+       Link: https://www.amazon.com/gp/product/B09YM7V1JC/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1
+       
+     * Iverntech 20pcs Black Aluminum Corner Bracket
+  
+       Link: https://www.amazon.com/dp/B091GH5QKF?ref=ppx_pop_mob_ap_share&th=1
 
   4. Store-Bought Components
   
@@ -148,11 +156,13 @@ The goal of this project is to develop a system that automatically opens reams o
 |                            |18mm Snap-off Blades by HEIKIO                                     |$21.99 |
 |                            |LED Illuminated Push Buttons                                       |$18.86 |
 |                            |2pcs 2040 V Slot 600mm Aluminum Extrusion                          |$86.97 |
+|                            |460PCS M4 Screws Metric Button Head                                |$17.99 |
+|                            |Iverntech 20pcs Black Aluminum Corner Bracket                      |$18.99 |
 |                            |                                                                   |       |
 |Store-Bought                |Wooden Planks                                          |Stakeholder Expense|
 |                            |Acrylic Top Cover                                      |Stakeholder Expense| 
 |                 |               |       |
-|Grand Total      |-------------  |$680.81|
+|Grand Total      |-------------  |$717.79|
 
 
       
