@@ -179,6 +179,12 @@ In the interest of successfully replicating the aforementioned progress a concis
 
      Assembly of Linear Rail Kits
      * Link: https://www.youtube.com/watch?v=tHn-gffborc&ab_channel=OpenBuilds
+
+     Specifics of Analog Blade Holders
+     * Link: https://youtu.be/Tv00ml124e8
+
+     NYSID CREATE Final Video Submission
+     * Link: https://www.youtube.com/watch?v=cMDn14l95jw&ab_channel=MazinChater
        
 Now that sufficient context has been provided an individual would proceed by purchasing the displayed equipment articulated within the video format. A complete list of parts with purchasing links has been organized up above in the "System Parts" section.
     
@@ -190,16 +196,12 @@ Lastly, the final step of the procedure is to recreate the circuit connections d
  
 It will be known whether or not successful replication has been achieved based on the performance of the apparatus in comparison to the ideal case displayed in the instructional video.
 
-### TO-DO
+### NYSID CREATE Competition
 
-Looking forward to the future the team will resume work on the device during the winter break. Designers expect to achieve considerable progress, especially in the following areas:
-    
-     * Development of Enclosure (Focusing on the Safety of Disabled Employees)
-       
-     * Increased Automation Emphasis
-       
-     * Satisfying Secondary Tasks provided by the Stakeholder
+![image](https://user-images.githubusercontent.com/87021326/235700298-19ffbc43-7bbb-415f-b7b2-ba365784ed9b.png)
 
+1st place finish at the NYSID CREATE competition. 
+Beyond the prize money, the work is having a real impact.  It has enabled the Center for Disability Services Mailing Center to hire additional workers with disabilities.
 ### Personnel and Funding
 
 This project is completely sponsored by New York State Industries for the Disabled (NYSID) and allows the respective designers to take part in the CREATE (Cultivating Resources for Employment with Assistive TEchnology) competition.
