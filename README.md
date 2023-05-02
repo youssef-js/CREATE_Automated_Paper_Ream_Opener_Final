@@ -83,7 +83,7 @@ The goal of this project is to develop a system that automatically opens reams o
   
        Link: https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Projects-Compliant/dp/B01H4ZDYCE/ref=asc_df_B01H4ZLZLQ/?tag=hyprod20&linkCode=df0&hvadid=309743296044&hvpos=&hvnetw=g&hvrand=5459596528536033104&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9004731&hvtargid=pla-490931309987&th=1
        
-  3. Crucial Supplies/Experimental Parts
+  3. Crucial Supplies
  
      * Wires
   
@@ -131,21 +131,26 @@ The goal of this project is to develop a system that automatically opens reams o
 | Drive System               |Belt Driven Nema 17: 500mm 1070-Bundle                             |$117.99|
 |                            |Belt Driven Nema 17: 500mm 1070-Bundle                             |$117.99|
 |                            |Belt Driven Nema 17: 250mm 1070-Bundle                             |$111.99|
+|                            |STEPPERONLINE NEMA 23 Stepper Motor 3.0A                           |$31.98 |
+|                            |NEMA23 Stepper Motor Mounting Plate                                |$9.49  |
+|                            |Saiper 5pcs GT2 20 Teeth 6.35mm Bore Timing Pulley                 |$8.39  |
+|                            |Threaded Rod with Cart and NEMA Stepper Motor Apparatus            |FREE   |
 |                            |                                                                   |       |
-| Control-Oriented Components| CNC Shield Expansion Board V3.0 + 4Pcs A4988 Stepper Motor Driver |$15.39 |
-|                            | 12V 6A Power Supply                                               |$19.99 |
+| Control-Oriented Components|CNC Shield Expansion Board V3.0 + 4Pcs A4988 Stepper Motor Driver  |$15.39 |
+|                            |12V 6A Power Supply                                                |$19.99 |
+|                            |24V 6A Power Supply                                                |$15.98 |
 |                            |Arduino Mega                                                       |$20.99 |
 |                            |                                                                   |       |
-| Crucial Supplies/Experimental Parts| Wires                                                     |$14.94 |
+| Crucial Supplies           | Wires                                                             |$14.94 |
 |                            |Bulk Pack of A4988 Stepper Motor Drivers                           |$9.89  |
 |                            |DM542T STEPPERONLINE CNC Stepper Motor Driver                      |$28.99 |
-|                            |Bates- Double Edge Razor Blade                                     |$4.95  |
-|                            |Utility Knife Blades by HEIKIO                                     |$4.99  |
-|                            |Yanzeo CC431-60119ADF Input Paper Tray                             |$19.00 |
-|                            |Automatic Document Feeder ADF Paper Input Tray                     |$16.99 |
-|                            |12V 2A Power Supply                                                |$8.89  |
+|                            |DM542T STEPPERONLINE CNC Stepper Motor Driver                      |$28.99 |
+|                            |18mm Snap-off Blades by HEIKIO                                     |$21.99 |
+|                            |LED Illuminated Push Buttons                                       |$18.86 |
+|                            |2pcs 2040 V Slot 600mm Aluminum Extrusion                          |$86.97 |
 |                            |                                                                   |       |
-|Store-Bought         |12" Mending Plate Zinc (Straight Metal Bar with Holes) (Quantity: 2)      |$11.38 |
+|Store-Bought                |Wooden Planks                                          |Stakeholder Expense|
+|                            |Acrylic Top Cover                                      |Stakeholder Expense| 
 |                 |               |       |
 |Shipping Cost    |-------------  |$25.50 |
 |Grand Total      |-------------  |$549.86|
