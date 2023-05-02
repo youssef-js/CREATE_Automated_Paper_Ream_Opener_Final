@@ -50,6 +50,14 @@ The goal of this project is to develop a system that automatically opens reams o
   
        Link: https://www.amazon.com/gp/product/B077Z5QJCL/ref=ewc_pr_img_2?smid=AWQBCGWISS7BL&psc=1
        
+     * NEMA23 Stepper Motor Mounting Plate
+  
+       Link: https://www.amazon.com/gp/product/B0836P59M4/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+       
+     * Saiper 5pcs GT2 20 Teeth 6.35mm Bore Timing Pulley
+  
+       Link: https://www.amazon.com/gp/product/B07MGMBX3N/ref=ewc_pr_img_3?smid=A3ILYKI8R26I7D&th=1
+       
      * Threaded Rod with Cart and NEMA Stepper Motor Apparatus
   
        -Obtained from Public Laboratory Supplies, it had been fully assembled by another individual
@@ -93,15 +101,23 @@ The goal of this project is to develop a system that automatically opens reams o
   
        Link: https://www.amazon.com/STEPPERONLINE-1-0-4-2A-20-50VDC-Micro-step-Resolutions/dp/B06Y5VPSFN/ref=sr_1_13?keywords=nema+17+driver&qid=1664568370&qu=eyJxc2MiOiI0LjA2IiwicXNhIjoiMy43NyIsInFzcCI6IjMuNTAifQ%3D%3D&sr=8-13
        
-     * Utility Knife Blades by HEIKIO
+     * 18mm Snap-off Blades by HEIKIO
   
-       Link: https://www.amazon.com/Utility-HEIKIO-Standard-Replacement-Heavy-duty/dp/B09Q3NSYD2/ref=sr_1_7?crid=ROZT8PODJ5NI&keywords=knife+blade&qid=1664568691&qu=eyJxc2MiOiI1Ljg0IiwicXNhIjoiNC4zMiIsInFzcCI6IjQuMDUifQ%3D%3D&sprefix=knife+blad%2Caps%2C87&sr=8-7
+       Link: https://www.amazon.com/Snap-Off-50-Pack-Quality-Stainless-Replacement/dp/B07XRTWWMS
+       
+     * LED Illuminated Push Buttons
+  
+       Link: https://www.amazon.com/gp/product/B01M7PNCO9/ref=ox_sc_act_title_1?smid=A3H7VB6FZ4M9FM&psc=1
 
   4. Store-Bought Components
   
-     * 12" Mending Plate Zinc (Straight Metal Bar with Holes) (Quantity: 2)
+     * Wooden Planks
   
        Store: Home Depot
+     
+     * Acrylic Top Cover
+  
+       Store: Lowes
 
   
  ### Itemized Expenses
