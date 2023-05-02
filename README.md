@@ -176,6 +176,9 @@ In the interest of successfully replicating the aforementioned progress a concis
   
      Basics
      * Link: https://www.screencast.com/t/LzzzPJ7e0wt
+
+     Assembly of Linear Rail Kits
+     * Link: https://www.youtube.com/watch?v=tHn-gffborc&ab_channel=OpenBuilds
        
 Now that sufficient context has been provided an individual would proceed by purchasing the displayed equipment articulated within the video format. A complete list of parts with purchasing links has been organized up above in the "System Parts" section.
     
