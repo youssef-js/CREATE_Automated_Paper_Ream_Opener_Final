@@ -172,8 +172,9 @@ At this stage the setup in terms of software has been completed. Please download
 
 In the interest of successfully replicating the aforementioned progress a concise check list has been provided below.
 
- 1. Watch the instructional video provided below:
-
+ 1. Watch the instructional videos provided below:
+  
+     Basics
      * Link: https://www.screencast.com/t/LzzzPJ7e0wt
        
 Now that sufficient context has been provided an individual would proceed by purchasing the displayed equipment articulated within the video format. A complete list of parts with purchasing links has been organized up above in the "System Parts" section.
