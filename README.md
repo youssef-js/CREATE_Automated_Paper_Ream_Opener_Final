@@ -152,8 +152,7 @@ The goal of this project is to develop a system that automatically opens reams o
 |Store-Bought                |Wooden Planks                                          |Stakeholder Expense|
 |                            |Acrylic Top Cover                                      |Stakeholder Expense| 
 |                 |               |       |
-|Shipping Cost    |-------------  |$25.50 |
-|Grand Total      |-------------  |$549.86|
+|Grand Total      |-------------  |$680.81|
 
 
       
